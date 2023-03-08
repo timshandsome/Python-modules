@@ -1,0 +1,22 @@
+{
+  "transfer_file": false,                           "//": "npy2npz or npz2npy",
+  "original_file_type": 2,                          "//": "1 for npz, 2 for npy",
+  "read_npyfile": false,                            "//": "check and calculate npyfile: like plot fig, trim and save ",
+  "read_files": true,                               "//": "read npyfiles from a folder",
+  "r_path": "D:/SCA_data/ITRI_ARTIX7_20221128-1200/",
+  "r_file": "ARTIX7_traces_20221128-120000",
+  "npz_filename": "",
+  "npy_tracename": "M2351_traceset_20221121-1751.npy",
+  "npy_dataname": "M2351_dataset_20221121-1751.npy",
+  "npy_keyname": "M2351_key_20221121-1751.npy",
+  "parametername": "parameters.txt",
+
+  "ntrace": 10,
+  "trim_trace": false,
+  "save_trim_data": false,
+
+  "plot_trace": true,
+  "print_data": false,
+  "ptrace": 9,
+  "vrange": 0.1
+}
